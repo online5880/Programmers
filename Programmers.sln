@@ -15,6 +15,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_문자열 반복해서 �
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_대소문자 바꿔서 출력하기", "04_대소문자 바꿔서 출력하기\04_대소문자 바꿔서 출력하기.vcxproj", "{3D343A84-A4AC-43E3-BFAF-046CD83AEFE8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05_특수문자 출력하기", "05_특수문자 출력하기\05_특수문자 출력하기.vcxproj", "{F8C9D79F-B7E5-4F00-804D-2B6309FDDC1B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06_덧셈식 출력하기", "06_덧셈식 출력하기\06_덧셈식 출력하기.vcxproj", "{E2C430C2-02CE-4269-B72C-A6D71F5DFFE4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -63,6 +67,22 @@ Global
 		{3D343A84-A4AC-43E3-BFAF-046CD83AEFE8}.Release|x64.Build.0 = Release|x64
 		{3D343A84-A4AC-43E3-BFAF-046CD83AEFE8}.Release|x86.ActiveCfg = Release|Win32
 		{3D343A84-A4AC-43E3-BFAF-046CD83AEFE8}.Release|x86.Build.0 = Release|Win32
+		{F8C9D79F-B7E5-4F00-804D-2B6309FDDC1B}.Debug|x64.ActiveCfg = Debug|x64
+		{F8C9D79F-B7E5-4F00-804D-2B6309FDDC1B}.Debug|x64.Build.0 = Debug|x64
+		{F8C9D79F-B7E5-4F00-804D-2B6309FDDC1B}.Debug|x86.ActiveCfg = Debug|Win32
+		{F8C9D79F-B7E5-4F00-804D-2B6309FDDC1B}.Debug|x86.Build.0 = Debug|Win32
+		{F8C9D79F-B7E5-4F00-804D-2B6309FDDC1B}.Release|x64.ActiveCfg = Release|x64
+		{F8C9D79F-B7E5-4F00-804D-2B6309FDDC1B}.Release|x64.Build.0 = Release|x64
+		{F8C9D79F-B7E5-4F00-804D-2B6309FDDC1B}.Release|x86.ActiveCfg = Release|Win32
+		{F8C9D79F-B7E5-4F00-804D-2B6309FDDC1B}.Release|x86.Build.0 = Release|Win32
+		{E2C430C2-02CE-4269-B72C-A6D71F5DFFE4}.Debug|x64.ActiveCfg = Debug|x64
+		{E2C430C2-02CE-4269-B72C-A6D71F5DFFE4}.Debug|x64.Build.0 = Debug|x64
+		{E2C430C2-02CE-4269-B72C-A6D71F5DFFE4}.Debug|x86.ActiveCfg = Debug|Win32
+		{E2C430C2-02CE-4269-B72C-A6D71F5DFFE4}.Debug|x86.Build.0 = Debug|Win32
+		{E2C430C2-02CE-4269-B72C-A6D71F5DFFE4}.Release|x64.ActiveCfg = Release|x64
+		{E2C430C2-02CE-4269-B72C-A6D71F5DFFE4}.Release|x64.Build.0 = Release|x64
+		{E2C430C2-02CE-4269-B72C-A6D71F5DFFE4}.Release|x86.ActiveCfg = Release|Win32
+		{E2C430C2-02CE-4269-B72C-A6D71F5DFFE4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -72,6 +92,8 @@ Global
 		{9B1AE057-5E8D-4968-B233-15A9F6CD6489} = {243B531E-BA4D-4B65-A95F-C5A62A599CAD}
 		{7E99A190-81B6-442A-82BF-4A8B76E2E92C} = {243B531E-BA4D-4B65-A95F-C5A62A599CAD}
 		{3D343A84-A4AC-43E3-BFAF-046CD83AEFE8} = {243B531E-BA4D-4B65-A95F-C5A62A599CAD}
+		{F8C9D79F-B7E5-4F00-804D-2B6309FDDC1B} = {243B531E-BA4D-4B65-A95F-C5A62A599CAD}
+		{E2C430C2-02CE-4269-B72C-A6D71F5DFFE4} = {243B531E-BA4D-4B65-A95F-C5A62A599CAD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CAA886D7-9147-4036-BEB1-4D5763D86490}
