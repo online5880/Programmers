@@ -5,19 +5,15 @@ using namespace std;
 
 int solution(int a, int d, vector<bool> included) {
     int answer = 0;
-    for (int i = a; i < included.size(); i = a + d)
+    int aa = a;
+    int dd = d;
+    for (int i = 0; i < included.size(); ++i)
     {
         if (included[i] == true)
         {
-            answer += i;
+            answer += aa;
         }
+        aa += d;
     }
-    for (auto it = included.begin(); it != included.end(); ++it)
-    {
-	    
-    }
-
     return answer;
-
-    
-};
+}
