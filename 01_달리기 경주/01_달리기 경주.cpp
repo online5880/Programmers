@@ -26,3 +26,12 @@ vector<string> solution(vector<string> players, vector<string> callings) {
     }
     return players;
 }
+
+int main(void)
+{
+    vector<string> players = { "mumu", "soe", "poe", "kai", "mine" };
+    vector<string> callings = { "kai", "kai", "mine", "mine" };
+    solution(players, callings);
+
+    return 0;
+}
