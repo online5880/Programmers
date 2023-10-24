@@ -71,6 +71,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01_달리기 경주", "01_�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "30_카운트 업", "30_카운트 업\30_카운트 업.vcxproj", "{74FA0ABC-6021-4CD6-BF02-AAC261ADDC61}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "31_콜라츠 수열 만들기", "31_콜라츠 수열 만들기\31_콜라츠 수열 만들기.vcxproj", "{FCE70BD8-F37F-4D9B-9B59-5DC1BABA574F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -335,6 +337,14 @@ Global
 		{74FA0ABC-6021-4CD6-BF02-AAC261ADDC61}.Release|x64.Build.0 = Release|x64
 		{74FA0ABC-6021-4CD6-BF02-AAC261ADDC61}.Release|x86.ActiveCfg = Release|Win32
 		{74FA0ABC-6021-4CD6-BF02-AAC261ADDC61}.Release|x86.Build.0 = Release|Win32
+		{FCE70BD8-F37F-4D9B-9B59-5DC1BABA574F}.Debug|x64.ActiveCfg = Debug|x64
+		{FCE70BD8-F37F-4D9B-9B59-5DC1BABA574F}.Debug|x64.Build.0 = Debug|x64
+		{FCE70BD8-F37F-4D9B-9B59-5DC1BABA574F}.Debug|x86.ActiveCfg = Debug|Win32
+		{FCE70BD8-F37F-4D9B-9B59-5DC1BABA574F}.Debug|x86.Build.0 = Debug|Win32
+		{FCE70BD8-F37F-4D9B-9B59-5DC1BABA574F}.Release|x64.ActiveCfg = Release|x64
+		{FCE70BD8-F37F-4D9B-9B59-5DC1BABA574F}.Release|x64.Build.0 = Release|x64
+		{FCE70BD8-F37F-4D9B-9B59-5DC1BABA574F}.Release|x86.ActiveCfg = Release|Win32
+		{FCE70BD8-F37F-4D9B-9B59-5DC1BABA574F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -371,6 +381,7 @@ Global
 		{1EA4E4FF-2CB1-4277-849E-AEC6F84BAABC} = {243B531E-BA4D-4B65-A95F-C5A62A599CAD}
 		{328D1B41-36F4-4178-9E9D-FDD6D7416838} = {C380A59B-4090-4339-A01C-72A6D767DF5D}
 		{74FA0ABC-6021-4CD6-BF02-AAC261ADDC61} = {243B531E-BA4D-4B65-A95F-C5A62A599CAD}
+		{FCE70BD8-F37F-4D9B-9B59-5DC1BABA574F} = {243B531E-BA4D-4B65-A95F-C5A62A599CAD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CAA886D7-9147-4036-BEB1-4D5763D86490}
