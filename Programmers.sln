@@ -75,6 +75,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "31_콜라츠 수열 만들�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "32_글자 이어 붙여 문자열 만들기", "32_글자 이어 붙여 문자열 만들기\32_글자 이어 붙여 문자열 만들기.vcxproj", "{B4238D34-19B2-4605-B275-32864A81808B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "33_9로 나눈 나머지", "33_9로 나눈 나머지\33_9로 나눈 나머지.vcxproj", "{8604049B-4548-4CA0-AF67-46463DAFEF2B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -355,6 +357,14 @@ Global
 		{B4238D34-19B2-4605-B275-32864A81808B}.Release|x64.Build.0 = Release|x64
 		{B4238D34-19B2-4605-B275-32864A81808B}.Release|x86.ActiveCfg = Release|Win32
 		{B4238D34-19B2-4605-B275-32864A81808B}.Release|x86.Build.0 = Release|Win32
+		{8604049B-4548-4CA0-AF67-46463DAFEF2B}.Debug|x64.ActiveCfg = Debug|x64
+		{8604049B-4548-4CA0-AF67-46463DAFEF2B}.Debug|x64.Build.0 = Debug|x64
+		{8604049B-4548-4CA0-AF67-46463DAFEF2B}.Debug|x86.ActiveCfg = Debug|Win32
+		{8604049B-4548-4CA0-AF67-46463DAFEF2B}.Debug|x86.Build.0 = Debug|Win32
+		{8604049B-4548-4CA0-AF67-46463DAFEF2B}.Release|x64.ActiveCfg = Release|x64
+		{8604049B-4548-4CA0-AF67-46463DAFEF2B}.Release|x64.Build.0 = Release|x64
+		{8604049B-4548-4CA0-AF67-46463DAFEF2B}.Release|x86.ActiveCfg = Release|Win32
+		{8604049B-4548-4CA0-AF67-46463DAFEF2B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -393,6 +403,7 @@ Global
 		{74FA0ABC-6021-4CD6-BF02-AAC261ADDC61} = {243B531E-BA4D-4B65-A95F-C5A62A599CAD}
 		{FCE70BD8-F37F-4D9B-9B59-5DC1BABA574F} = {243B531E-BA4D-4B65-A95F-C5A62A599CAD}
 		{B4238D34-19B2-4605-B275-32864A81808B} = {243B531E-BA4D-4B65-A95F-C5A62A599CAD}
+		{8604049B-4548-4CA0-AF67-46463DAFEF2B} = {243B531E-BA4D-4B65-A95F-C5A62A599CAD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CAA886D7-9147-4036-BEB1-4D5763D86490}
