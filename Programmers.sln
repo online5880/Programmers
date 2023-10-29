@@ -87,6 +87,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "37_주사위 게임 3", "37
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "38_배열 만들기 5", "38_배열 만들기 5\38_배열 만들기 5.vcxproj", "{B40FFF5F-033E-4180-B9AA-F667D22F609A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "39_부분 문자열 이어 붙여 문자열 만들기", "39_부분 문자열 이어 붙여 문자열 만들기\39_부분 문자열 이어 붙여 문자열 만들기.vcxproj", "{30834F85-A234-4A7A-B30F-CC7508693F2F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -415,6 +417,14 @@ Global
 		{B40FFF5F-033E-4180-B9AA-F667D22F609A}.Release|x64.Build.0 = Release|x64
 		{B40FFF5F-033E-4180-B9AA-F667D22F609A}.Release|x86.ActiveCfg = Release|Win32
 		{B40FFF5F-033E-4180-B9AA-F667D22F609A}.Release|x86.Build.0 = Release|Win32
+		{30834F85-A234-4A7A-B30F-CC7508693F2F}.Debug|x64.ActiveCfg = Debug|x64
+		{30834F85-A234-4A7A-B30F-CC7508693F2F}.Debug|x64.Build.0 = Debug|x64
+		{30834F85-A234-4A7A-B30F-CC7508693F2F}.Debug|x86.ActiveCfg = Debug|Win32
+		{30834F85-A234-4A7A-B30F-CC7508693F2F}.Debug|x86.Build.0 = Debug|Win32
+		{30834F85-A234-4A7A-B30F-CC7508693F2F}.Release|x64.ActiveCfg = Release|x64
+		{30834F85-A234-4A7A-B30F-CC7508693F2F}.Release|x64.Build.0 = Release|x64
+		{30834F85-A234-4A7A-B30F-CC7508693F2F}.Release|x86.ActiveCfg = Release|Win32
+		{30834F85-A234-4A7A-B30F-CC7508693F2F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -459,6 +469,7 @@ Global
 		{4840B36C-BE29-4653-9B05-B7ABD2D94CF4} = {243B531E-BA4D-4B65-A95F-C5A62A599CAD}
 		{A2AA2AD3-D3EA-4398-ACE0-4D3DEED5E3F0} = {243B531E-BA4D-4B65-A95F-C5A62A599CAD}
 		{B40FFF5F-033E-4180-B9AA-F667D22F609A} = {243B531E-BA4D-4B65-A95F-C5A62A599CAD}
+		{30834F85-A234-4A7A-B30F-CC7508693F2F} = {243B531E-BA4D-4B65-A95F-C5A62A599CAD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CAA886D7-9147-4036-BEB1-4D5763D86490}
