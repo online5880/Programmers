@@ -91,6 +91,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "39_부분 문자열 이어 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "40_수열과 구간 쿼리 4", "40_수열과 구간 쿼리 4\40_수열과 구간 쿼리 4.vcxproj", "{E1E2C0CE-B089-4B1E-B013-4EBFF64EFC1B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "41_간단한 논리 연산", "41_간단한 논리 연산\41_간단한 논리 연산.vcxproj", "{3A63FCE5-70E9-4619-B42A-826751BF7A58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -435,6 +437,14 @@ Global
 		{E1E2C0CE-B089-4B1E-B013-4EBFF64EFC1B}.Release|x64.Build.0 = Release|x64
 		{E1E2C0CE-B089-4B1E-B013-4EBFF64EFC1B}.Release|x86.ActiveCfg = Release|Win32
 		{E1E2C0CE-B089-4B1E-B013-4EBFF64EFC1B}.Release|x86.Build.0 = Release|Win32
+		{3A63FCE5-70E9-4619-B42A-826751BF7A58}.Debug|x64.ActiveCfg = Debug|x64
+		{3A63FCE5-70E9-4619-B42A-826751BF7A58}.Debug|x64.Build.0 = Debug|x64
+		{3A63FCE5-70E9-4619-B42A-826751BF7A58}.Debug|x86.ActiveCfg = Debug|Win32
+		{3A63FCE5-70E9-4619-B42A-826751BF7A58}.Debug|x86.Build.0 = Debug|Win32
+		{3A63FCE5-70E9-4619-B42A-826751BF7A58}.Release|x64.ActiveCfg = Release|x64
+		{3A63FCE5-70E9-4619-B42A-826751BF7A58}.Release|x64.Build.0 = Release|x64
+		{3A63FCE5-70E9-4619-B42A-826751BF7A58}.Release|x86.ActiveCfg = Release|Win32
+		{3A63FCE5-70E9-4619-B42A-826751BF7A58}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -481,6 +491,7 @@ Global
 		{B40FFF5F-033E-4180-B9AA-F667D22F609A} = {243B531E-BA4D-4B65-A95F-C5A62A599CAD}
 		{30834F85-A234-4A7A-B30F-CC7508693F2F} = {243B531E-BA4D-4B65-A95F-C5A62A599CAD}
 		{E1E2C0CE-B089-4B1E-B013-4EBFF64EFC1B} = {243B531E-BA4D-4B65-A95F-C5A62A599CAD}
+		{3A63FCE5-70E9-4619-B42A-826751BF7A58} = {243B531E-BA4D-4B65-A95F-C5A62A599CAD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CAA886D7-9147-4036-BEB1-4D5763D86490}
