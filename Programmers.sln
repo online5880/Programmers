@@ -97,6 +97,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "42_문자열 뒤의  n글�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "43_문자열 뒤집기", "43_문자열 뒤집기\43_문자열 뒤집기.vcxproj", "{521F72C4-7F8A-4C45-8667-315B4D23FF8D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "44_접미사 배열", "44_접미사 배열\44_접미사 배열.vcxproj", "{34E557FC-E525-4AAE-B6EE-10B6DEBE73A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -465,6 +467,14 @@ Global
 		{521F72C4-7F8A-4C45-8667-315B4D23FF8D}.Release|x64.Build.0 = Release|x64
 		{521F72C4-7F8A-4C45-8667-315B4D23FF8D}.Release|x86.ActiveCfg = Release|Win32
 		{521F72C4-7F8A-4C45-8667-315B4D23FF8D}.Release|x86.Build.0 = Release|Win32
+		{34E557FC-E525-4AAE-B6EE-10B6DEBE73A5}.Debug|x64.ActiveCfg = Debug|x64
+		{34E557FC-E525-4AAE-B6EE-10B6DEBE73A5}.Debug|x64.Build.0 = Debug|x64
+		{34E557FC-E525-4AAE-B6EE-10B6DEBE73A5}.Debug|x86.ActiveCfg = Debug|Win32
+		{34E557FC-E525-4AAE-B6EE-10B6DEBE73A5}.Debug|x86.Build.0 = Debug|Win32
+		{34E557FC-E525-4AAE-B6EE-10B6DEBE73A5}.Release|x64.ActiveCfg = Release|x64
+		{34E557FC-E525-4AAE-B6EE-10B6DEBE73A5}.Release|x64.Build.0 = Release|x64
+		{34E557FC-E525-4AAE-B6EE-10B6DEBE73A5}.Release|x86.ActiveCfg = Release|Win32
+		{34E557FC-E525-4AAE-B6EE-10B6DEBE73A5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -514,6 +524,7 @@ Global
 		{3A63FCE5-70E9-4619-B42A-826751BF7A58} = {243B531E-BA4D-4B65-A95F-C5A62A599CAD}
 		{222DEEBD-93C5-4179-B2FC-3FAA398201AF} = {243B531E-BA4D-4B65-A95F-C5A62A599CAD}
 		{521F72C4-7F8A-4C45-8667-315B4D23FF8D} = {243B531E-BA4D-4B65-A95F-C5A62A599CAD}
+		{34E557FC-E525-4AAE-B6EE-10B6DEBE73A5} = {243B531E-BA4D-4B65-A95F-C5A62A599CAD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CAA886D7-9147-4036-BEB1-4D5763D86490}
