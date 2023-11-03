@@ -103,6 +103,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "45_접미사인지 확인�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "46_문자열의 앞의 n글자", "46_문자열의 앞의 n글자\46_문자열의 앞의 n글자.vcxproj", "{A8B51BC6-A74D-4C5C-9393-25632EFDA494}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "47_접두사인지 확인하기", "47_접두사인지 확인하기\47_접두사인지 확인하기.vcxproj", "{56DD00FA-996F-4619-9EFE-24393572C3BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -495,6 +497,14 @@ Global
 		{A8B51BC6-A74D-4C5C-9393-25632EFDA494}.Release|x64.Build.0 = Release|x64
 		{A8B51BC6-A74D-4C5C-9393-25632EFDA494}.Release|x86.ActiveCfg = Release|Win32
 		{A8B51BC6-A74D-4C5C-9393-25632EFDA494}.Release|x86.Build.0 = Release|Win32
+		{56DD00FA-996F-4619-9EFE-24393572C3BB}.Debug|x64.ActiveCfg = Debug|x64
+		{56DD00FA-996F-4619-9EFE-24393572C3BB}.Debug|x64.Build.0 = Debug|x64
+		{56DD00FA-996F-4619-9EFE-24393572C3BB}.Debug|x86.ActiveCfg = Debug|Win32
+		{56DD00FA-996F-4619-9EFE-24393572C3BB}.Debug|x86.Build.0 = Debug|Win32
+		{56DD00FA-996F-4619-9EFE-24393572C3BB}.Release|x64.ActiveCfg = Release|x64
+		{56DD00FA-996F-4619-9EFE-24393572C3BB}.Release|x64.Build.0 = Release|x64
+		{56DD00FA-996F-4619-9EFE-24393572C3BB}.Release|x86.ActiveCfg = Release|Win32
+		{56DD00FA-996F-4619-9EFE-24393572C3BB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -547,6 +557,7 @@ Global
 		{34E557FC-E525-4AAE-B6EE-10B6DEBE73A5} = {243B531E-BA4D-4B65-A95F-C5A62A599CAD}
 		{8EB109FD-A78B-4851-82F8-C1156B338058} = {243B531E-BA4D-4B65-A95F-C5A62A599CAD}
 		{A8B51BC6-A74D-4C5C-9393-25632EFDA494} = {243B531E-BA4D-4B65-A95F-C5A62A599CAD}
+		{56DD00FA-996F-4619-9EFE-24393572C3BB} = {243B531E-BA4D-4B65-A95F-C5A62A599CAD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CAA886D7-9147-4036-BEB1-4D5763D86490}

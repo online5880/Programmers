@@ -9,6 +9,7 @@ string solution(string my_string, int n) {
     for (int i = 0; i < n; ++i)
     {
         answer += my_string.c_str()[i];
+        //answer.assign(my_string.begin(), my_string.begin() + n);
     }
     return answer;
 }
