@@ -109,6 +109,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "48_세로 읽기", "48_세�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "49_qr code", "49_qr code\49_qr code.vcxproj", "{E7988D92-8B85-4E28-9804-DF6C2144B10B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "50_문자 개수 세기", "50_문자 개수 세기\50_문자 개수 세기.vcxproj", "{4F6515BE-6819-4037-8FC1-2D242B867641}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -525,6 +527,14 @@ Global
 		{E7988D92-8B85-4E28-9804-DF6C2144B10B}.Release|x64.Build.0 = Release|x64
 		{E7988D92-8B85-4E28-9804-DF6C2144B10B}.Release|x86.ActiveCfg = Release|Win32
 		{E7988D92-8B85-4E28-9804-DF6C2144B10B}.Release|x86.Build.0 = Release|Win32
+		{4F6515BE-6819-4037-8FC1-2D242B867641}.Debug|x64.ActiveCfg = Debug|x64
+		{4F6515BE-6819-4037-8FC1-2D242B867641}.Debug|x64.Build.0 = Debug|x64
+		{4F6515BE-6819-4037-8FC1-2D242B867641}.Debug|x86.ActiveCfg = Debug|Win32
+		{4F6515BE-6819-4037-8FC1-2D242B867641}.Debug|x86.Build.0 = Debug|Win32
+		{4F6515BE-6819-4037-8FC1-2D242B867641}.Release|x64.ActiveCfg = Release|x64
+		{4F6515BE-6819-4037-8FC1-2D242B867641}.Release|x64.Build.0 = Release|x64
+		{4F6515BE-6819-4037-8FC1-2D242B867641}.Release|x86.ActiveCfg = Release|Win32
+		{4F6515BE-6819-4037-8FC1-2D242B867641}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -580,6 +590,7 @@ Global
 		{56DD00FA-996F-4619-9EFE-24393572C3BB} = {243B531E-BA4D-4B65-A95F-C5A62A599CAD}
 		{F80E1433-AD1A-4290-97B4-9167FFF7D23E} = {243B531E-BA4D-4B65-A95F-C5A62A599CAD}
 		{E7988D92-8B85-4E28-9804-DF6C2144B10B} = {243B531E-BA4D-4B65-A95F-C5A62A599CAD}
+		{4F6515BE-6819-4037-8FC1-2D242B867641} = {243B531E-BA4D-4B65-A95F-C5A62A599CAD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CAA886D7-9147-4036-BEB1-4D5763D86490}
