@@ -1,0 +1,22 @@
+﻿#include <iostream>
+#include <string>
+#include <vector>
+
+using namespace std;
+
+vector<string> solution(vector<string> names) {
+    vector<string> answer;
+    for (int i = 0; i < names.size(); ++i)
+    {
+        if (i % 5 == 0)
+        {
+            answer.emplace_back(names[i]);
+        }
+    }
+    return answer;
+}
+
+int main()
+{
+    std::cout << "Hello World!\n";
+}
