@@ -159,6 +159,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "72_길이에 따른 연산"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "73_원하는 문자열 찾기", "73_원하는 문자열 찾기\73_원하는 문자열 찾기.vcxproj", "{B2BC71EC-B8E0-4B35-AAD0-EAAD1437A740}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "73_대문자로 바꾸기", "73_대문자로 바꾸기\73_대문자로 바꾸기.vcxproj", "{9D31723A-966A-40F3-B6B4-27EE02F03401}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -775,6 +777,14 @@ Global
 		{B2BC71EC-B8E0-4B35-AAD0-EAAD1437A740}.Release|x64.Build.0 = Release|x64
 		{B2BC71EC-B8E0-4B35-AAD0-EAAD1437A740}.Release|x86.ActiveCfg = Release|Win32
 		{B2BC71EC-B8E0-4B35-AAD0-EAAD1437A740}.Release|x86.Build.0 = Release|Win32
+		{9D31723A-966A-40F3-B6B4-27EE02F03401}.Debug|x64.ActiveCfg = Debug|x64
+		{9D31723A-966A-40F3-B6B4-27EE02F03401}.Debug|x64.Build.0 = Debug|x64
+		{9D31723A-966A-40F3-B6B4-27EE02F03401}.Debug|x86.ActiveCfg = Debug|Win32
+		{9D31723A-966A-40F3-B6B4-27EE02F03401}.Debug|x86.Build.0 = Debug|Win32
+		{9D31723A-966A-40F3-B6B4-27EE02F03401}.Release|x64.ActiveCfg = Release|x64
+		{9D31723A-966A-40F3-B6B4-27EE02F03401}.Release|x64.Build.0 = Release|x64
+		{9D31723A-966A-40F3-B6B4-27EE02F03401}.Release|x86.ActiveCfg = Release|Win32
+		{9D31723A-966A-40F3-B6B4-27EE02F03401}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -855,6 +865,7 @@ Global
 		{09F5C7CA-D6E7-4AE0-BCB9-E516B0A13D94} = {243B531E-BA4D-4B65-A95F-C5A62A599CAD}
 		{7A4926C4-C750-4515-81E1-6303881DEB5E} = {243B531E-BA4D-4B65-A95F-C5A62A599CAD}
 		{B2BC71EC-B8E0-4B35-AAD0-EAAD1437A740} = {243B531E-BA4D-4B65-A95F-C5A62A599CAD}
+		{9D31723A-966A-40F3-B6B4-27EE02F03401} = {243B531E-BA4D-4B65-A95F-C5A62A599CAD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CAA886D7-9147-4036-BEB1-4D5763D86490}
