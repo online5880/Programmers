@@ -187,6 +187,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "85_배열의 원소만큼 �
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "86_빈 배열에 추가, 삭제하기", "86_빈 배열에 추가, 삭제하기\86_빈 배열에 추가, 삭제하기.vcxproj", "{5A680045-AE8C-411D-BC49-B4C9C8813ADF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "87_배열 만들기 6", "87_배열 만들기 6\87_배열 만들기 6.vcxproj", "{5252FDF1-874E-437C-9C74-BBDD8970126A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -915,6 +917,14 @@ Global
 		{5A680045-AE8C-411D-BC49-B4C9C8813ADF}.Release|x64.Build.0 = Release|x64
 		{5A680045-AE8C-411D-BC49-B4C9C8813ADF}.Release|x86.ActiveCfg = Release|Win32
 		{5A680045-AE8C-411D-BC49-B4C9C8813ADF}.Release|x86.Build.0 = Release|Win32
+		{5252FDF1-874E-437C-9C74-BBDD8970126A}.Debug|x64.ActiveCfg = Debug|x64
+		{5252FDF1-874E-437C-9C74-BBDD8970126A}.Debug|x64.Build.0 = Debug|x64
+		{5252FDF1-874E-437C-9C74-BBDD8970126A}.Debug|x86.ActiveCfg = Debug|Win32
+		{5252FDF1-874E-437C-9C74-BBDD8970126A}.Debug|x86.Build.0 = Debug|Win32
+		{5252FDF1-874E-437C-9C74-BBDD8970126A}.Release|x64.ActiveCfg = Release|x64
+		{5252FDF1-874E-437C-9C74-BBDD8970126A}.Release|x64.Build.0 = Release|x64
+		{5252FDF1-874E-437C-9C74-BBDD8970126A}.Release|x86.ActiveCfg = Release|Win32
+		{5252FDF1-874E-437C-9C74-BBDD8970126A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1009,6 +1019,7 @@ Global
 		{3A99522A-8004-446A-A44D-9B1B5679A58A} = {243B531E-BA4D-4B65-A95F-C5A62A599CAD}
 		{0E337EF7-DA43-496B-B2DD-F4EABED74448} = {243B531E-BA4D-4B65-A95F-C5A62A599CAD}
 		{5A680045-AE8C-411D-BC49-B4C9C8813ADF} = {243B531E-BA4D-4B65-A95F-C5A62A599CAD}
+		{5252FDF1-874E-437C-9C74-BBDD8970126A} = {243B531E-BA4D-4B65-A95F-C5A62A599CAD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CAA886D7-9147-4036-BEB1-4D5763D86490}
