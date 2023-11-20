@@ -195,6 +195,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02_문자열을 정수로 �
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_문자열을 정수로 바꾸기", "03_문자열을 정수로 바꾸기\03_문자열을 정수로 바꾸기.vcxproj", "{3295EB98-BC33-44A1-A18D-DC8C44514E42}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_짝수와 홀수", "04_짝수와 홀수\04_짝수와 홀수.vcxproj", "{44EBE4F4-88E7-4AFD-8C8D-AC5C3CB0738F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -955,6 +957,14 @@ Global
 		{3295EB98-BC33-44A1-A18D-DC8C44514E42}.Release|x64.Build.0 = Release|x64
 		{3295EB98-BC33-44A1-A18D-DC8C44514E42}.Release|x86.ActiveCfg = Release|Win32
 		{3295EB98-BC33-44A1-A18D-DC8C44514E42}.Release|x86.Build.0 = Release|Win32
+		{44EBE4F4-88E7-4AFD-8C8D-AC5C3CB0738F}.Debug|x64.ActiveCfg = Debug|x64
+		{44EBE4F4-88E7-4AFD-8C8D-AC5C3CB0738F}.Debug|x64.Build.0 = Debug|x64
+		{44EBE4F4-88E7-4AFD-8C8D-AC5C3CB0738F}.Debug|x86.ActiveCfg = Debug|Win32
+		{44EBE4F4-88E7-4AFD-8C8D-AC5C3CB0738F}.Debug|x86.Build.0 = Debug|Win32
+		{44EBE4F4-88E7-4AFD-8C8D-AC5C3CB0738F}.Release|x64.ActiveCfg = Release|x64
+		{44EBE4F4-88E7-4AFD-8C8D-AC5C3CB0738F}.Release|x64.Build.0 = Release|x64
+		{44EBE4F4-88E7-4AFD-8C8D-AC5C3CB0738F}.Release|x86.ActiveCfg = Release|Win32
+		{44EBE4F4-88E7-4AFD-8C8D-AC5C3CB0738F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1053,6 +1063,7 @@ Global
 		{DE669754-BF7B-4EA3-B52A-AD085468619E} = {243B531E-BA4D-4B65-A95F-C5A62A599CAD}
 		{7AF17A95-B861-4D3B-9C77-2C677D5AC376} = {C380A59B-4090-4339-A01C-72A6D767DF5D}
 		{3295EB98-BC33-44A1-A18D-DC8C44514E42} = {C380A59B-4090-4339-A01C-72A6D767DF5D}
+		{44EBE4F4-88E7-4AFD-8C8D-AC5C3CB0738F} = {C380A59B-4090-4339-A01C-72A6D767DF5D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CAA886D7-9147-4036-BEB1-4D5763D86490}
