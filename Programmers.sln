@@ -199,6 +199,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_짝수와 홀수", "04_�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05_x만큼 간격이 있는 n개의 숫자", "05_x만큼 간격이 있는 n개의 숫자\05_x만큼 간격이 있는 n개의 숫자.vcxproj", "{34E94D77-28DE-4F58-93F8-281A2338A3AC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06_평균 구하기", "06_평균 구하기\06_평균 구하기.vcxproj", "{5EAC2689-CCD7-45AE-8F19-EE422F0239A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -975,6 +977,14 @@ Global
 		{34E94D77-28DE-4F58-93F8-281A2338A3AC}.Release|x64.Build.0 = Release|x64
 		{34E94D77-28DE-4F58-93F8-281A2338A3AC}.Release|x86.ActiveCfg = Release|Win32
 		{34E94D77-28DE-4F58-93F8-281A2338A3AC}.Release|x86.Build.0 = Release|Win32
+		{5EAC2689-CCD7-45AE-8F19-EE422F0239A8}.Debug|x64.ActiveCfg = Debug|x64
+		{5EAC2689-CCD7-45AE-8F19-EE422F0239A8}.Debug|x64.Build.0 = Debug|x64
+		{5EAC2689-CCD7-45AE-8F19-EE422F0239A8}.Debug|x86.ActiveCfg = Debug|Win32
+		{5EAC2689-CCD7-45AE-8F19-EE422F0239A8}.Debug|x86.Build.0 = Debug|Win32
+		{5EAC2689-CCD7-45AE-8F19-EE422F0239A8}.Release|x64.ActiveCfg = Release|x64
+		{5EAC2689-CCD7-45AE-8F19-EE422F0239A8}.Release|x64.Build.0 = Release|x64
+		{5EAC2689-CCD7-45AE-8F19-EE422F0239A8}.Release|x86.ActiveCfg = Release|Win32
+		{5EAC2689-CCD7-45AE-8F19-EE422F0239A8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1075,6 +1085,7 @@ Global
 		{3295EB98-BC33-44A1-A18D-DC8C44514E42} = {C380A59B-4090-4339-A01C-72A6D767DF5D}
 		{44EBE4F4-88E7-4AFD-8C8D-AC5C3CB0738F} = {C380A59B-4090-4339-A01C-72A6D767DF5D}
 		{34E94D77-28DE-4F58-93F8-281A2338A3AC} = {C380A59B-4090-4339-A01C-72A6D767DF5D}
+		{5EAC2689-CCD7-45AE-8F19-EE422F0239A8} = {C380A59B-4090-4339-A01C-72A6D767DF5D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CAA886D7-9147-4036-BEB1-4D5763D86490}
