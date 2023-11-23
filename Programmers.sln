@@ -211,7 +211,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10_자연수 뒤집어 배�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11_정수 제곱근 판별", "11_정수 제곱근 판별\11_정수 제곱근 판별.vcxproj", "{5697DDEC-5D4E-4CF0-9D9D-E4CD5C6AFB5F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11_히샤드 수", "11_히샤드 수\11_히샤드 수.vcxproj", "{DE2B495C-E9D0-4028-8F35-9BB33BBA3C79}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12_히샤드 수", "11_히샤드 수\11_히샤드 수.vcxproj", "{DE2B495C-E9D0-4028-8F35-9BB33BBA3C79}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13_두 정수 사이의 합", "13_두 정수 사이의 합\13_두 정수 사이의 합.vcxproj", "{4826D95B-A261-42EC-A28B-C200B1729EA6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1045,6 +1047,14 @@ Global
 		{DE2B495C-E9D0-4028-8F35-9BB33BBA3C79}.Release|x64.Build.0 = Release|x64
 		{DE2B495C-E9D0-4028-8F35-9BB33BBA3C79}.Release|x86.ActiveCfg = Release|Win32
 		{DE2B495C-E9D0-4028-8F35-9BB33BBA3C79}.Release|x86.Build.0 = Release|Win32
+		{4826D95B-A261-42EC-A28B-C200B1729EA6}.Debug|x64.ActiveCfg = Debug|x64
+		{4826D95B-A261-42EC-A28B-C200B1729EA6}.Debug|x64.Build.0 = Debug|x64
+		{4826D95B-A261-42EC-A28B-C200B1729EA6}.Debug|x86.ActiveCfg = Debug|Win32
+		{4826D95B-A261-42EC-A28B-C200B1729EA6}.Debug|x86.Build.0 = Debug|Win32
+		{4826D95B-A261-42EC-A28B-C200B1729EA6}.Release|x64.ActiveCfg = Release|x64
+		{4826D95B-A261-42EC-A28B-C200B1729EA6}.Release|x64.Build.0 = Release|x64
+		{4826D95B-A261-42EC-A28B-C200B1729EA6}.Release|x86.ActiveCfg = Release|Win32
+		{4826D95B-A261-42EC-A28B-C200B1729EA6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1152,6 +1162,7 @@ Global
 		{56976543-7954-44CF-8E65-5D19E709F979} = {C380A59B-4090-4339-A01C-72A6D767DF5D}
 		{5697DDEC-5D4E-4CF0-9D9D-E4CD5C6AFB5F} = {C380A59B-4090-4339-A01C-72A6D767DF5D}
 		{DE2B495C-E9D0-4028-8F35-9BB33BBA3C79} = {C380A59B-4090-4339-A01C-72A6D767DF5D}
+		{4826D95B-A261-42EC-A28B-C200B1729EA6} = {C380A59B-4090-4339-A01C-72A6D767DF5D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CAA886D7-9147-4036-BEB1-4D5763D86490}
