@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Level_0", "Level_0", "{243B
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Level_01", "Level_01", "{C380A59B-4090-4339-A01C-72A6D767DF5D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "21_가운데 글자 가져오기", "Level_01\21_가운데 글자 가져오기\21_가운데 글자 가져오기.vcxproj", "{8F72F73E-DB91-433E-8403-256FE7BC6345}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -25,9 +27,20 @@ Global
 		{45311FE2-6D92-4160-BE72-03CDB21D136D}.Release|x64.Build.0 = Release|x64
 		{45311FE2-6D92-4160-BE72-03CDB21D136D}.Release|x86.ActiveCfg = Release|Win32
 		{45311FE2-6D92-4160-BE72-03CDB21D136D}.Release|x86.Build.0 = Release|Win32
+		{8F72F73E-DB91-433E-8403-256FE7BC6345}.Debug|x64.ActiveCfg = Debug|x64
+		{8F72F73E-DB91-433E-8403-256FE7BC6345}.Debug|x64.Build.0 = Debug|x64
+		{8F72F73E-DB91-433E-8403-256FE7BC6345}.Debug|x86.ActiveCfg = Debug|Win32
+		{8F72F73E-DB91-433E-8403-256FE7BC6345}.Debug|x86.Build.0 = Debug|Win32
+		{8F72F73E-DB91-433E-8403-256FE7BC6345}.Release|x64.ActiveCfg = Release|x64
+		{8F72F73E-DB91-433E-8403-256FE7BC6345}.Release|x64.Build.0 = Release|x64
+		{8F72F73E-DB91-433E-8403-256FE7BC6345}.Release|x86.ActiveCfg = Release|Win32
+		{8F72F73E-DB91-433E-8403-256FE7BC6345}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8F72F73E-DB91-433E-8403-256FE7BC6345} = {C380A59B-4090-4339-A01C-72A6D767DF5D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CAA886D7-9147-4036-BEB1-4D5763D86490}
