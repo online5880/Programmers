@@ -11,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Level_01", "Level_01", "{C3
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "21_가운데 글자 가져오기", "Level_01\21_가운데 글자 가져오기\21_가운데 글자 가져오기.vcxproj", "{8F72F73E-DB91-433E-8403-256FE7BC6345}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "22_수박수박수박수박수박수", "22_수박수박수박수박수박수\22_수박수박수박수박수박수.vcxproj", "{A8431F2E-A807-422D-B7BF-6B60736CBBFC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -35,12 +37,21 @@ Global
 		{8F72F73E-DB91-433E-8403-256FE7BC6345}.Release|x64.Build.0 = Release|x64
 		{8F72F73E-DB91-433E-8403-256FE7BC6345}.Release|x86.ActiveCfg = Release|Win32
 		{8F72F73E-DB91-433E-8403-256FE7BC6345}.Release|x86.Build.0 = Release|Win32
+		{A8431F2E-A807-422D-B7BF-6B60736CBBFC}.Debug|x64.ActiveCfg = Debug|x64
+		{A8431F2E-A807-422D-B7BF-6B60736CBBFC}.Debug|x64.Build.0 = Debug|x64
+		{A8431F2E-A807-422D-B7BF-6B60736CBBFC}.Debug|x86.ActiveCfg = Debug|Win32
+		{A8431F2E-A807-422D-B7BF-6B60736CBBFC}.Debug|x86.Build.0 = Debug|Win32
+		{A8431F2E-A807-422D-B7BF-6B60736CBBFC}.Release|x64.ActiveCfg = Release|x64
+		{A8431F2E-A807-422D-B7BF-6B60736CBBFC}.Release|x64.Build.0 = Release|x64
+		{A8431F2E-A807-422D-B7BF-6B60736CBBFC}.Release|x86.ActiveCfg = Release|Win32
+		{A8431F2E-A807-422D-B7BF-6B60736CBBFC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{8F72F73E-DB91-433E-8403-256FE7BC6345} = {C380A59B-4090-4339-A01C-72A6D767DF5D}
+		{A8431F2E-A807-422D-B7BF-6B60736CBBFC} = {C380A59B-4090-4339-A01C-72A6D767DF5D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CAA886D7-9147-4036-BEB1-4D5763D86490}
