@@ -225,6 +225,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17_나누어 떨어지는 �
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "18_없는 숫자 더하기", "18_없는 숫자 더하기\18_없는 숫자 더하기.vcxproj", "{D9489715-2045-4C3C-B687-C5A0C1B54ADF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "19_핸드폰 번호 가리기", "19_핸드폰 번호 가리기\19_핸드폰 번호 가리기.vcxproj", "{B04D02F0-E8F1-4E74-B87D-2DFC002CC3FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1105,6 +1107,14 @@ Global
 		{D9489715-2045-4C3C-B687-C5A0C1B54ADF}.Release|x64.Build.0 = Release|x64
 		{D9489715-2045-4C3C-B687-C5A0C1B54ADF}.Release|x86.ActiveCfg = Release|Win32
 		{D9489715-2045-4C3C-B687-C5A0C1B54ADF}.Release|x86.Build.0 = Release|Win32
+		{B04D02F0-E8F1-4E74-B87D-2DFC002CC3FF}.Debug|x64.ActiveCfg = Debug|x64
+		{B04D02F0-E8F1-4E74-B87D-2DFC002CC3FF}.Debug|x64.Build.0 = Debug|x64
+		{B04D02F0-E8F1-4E74-B87D-2DFC002CC3FF}.Debug|x86.ActiveCfg = Debug|Win32
+		{B04D02F0-E8F1-4E74-B87D-2DFC002CC3FF}.Debug|x86.Build.0 = Debug|Win32
+		{B04D02F0-E8F1-4E74-B87D-2DFC002CC3FF}.Release|x64.ActiveCfg = Release|x64
+		{B04D02F0-E8F1-4E74-B87D-2DFC002CC3FF}.Release|x64.Build.0 = Release|x64
+		{B04D02F0-E8F1-4E74-B87D-2DFC002CC3FF}.Release|x86.ActiveCfg = Release|Win32
+		{B04D02F0-E8F1-4E74-B87D-2DFC002CC3FF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1218,6 +1228,7 @@ Global
 		{AAC35F10-BF21-4AAC-8455-F42FECDFE6A3} = {C380A59B-4090-4339-A01C-72A6D767DF5D}
 		{CD9F9D5A-AB53-4B1A-A74A-7452FF28022C} = {C380A59B-4090-4339-A01C-72A6D767DF5D}
 		{D9489715-2045-4C3C-B687-C5A0C1B54ADF} = {C380A59B-4090-4339-A01C-72A6D767DF5D}
+		{B04D02F0-E8F1-4E74-B87D-2DFC002CC3FF} = {C380A59B-4090-4339-A01C-72A6D767DF5D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CAA886D7-9147-4036-BEB1-4D5763D86490}
