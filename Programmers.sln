@@ -221,6 +221,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "15_음양 더하기", "15_�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16_서울에서 김서방 찾기", "16_서울에서 김서방 찾기\16_서울에서 김서방 찾기.vcxproj", "{AAC35F10-BF21-4AAC-8455-F42FECDFE6A3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17_나누어 떨어지는 숫자 배열", "17_나누어 떨어지는 숫자 배열\17_나누어 떨어지는 숫자 배열.vcxproj", "{CD9F9D5A-AB53-4B1A-A74A-7452FF28022C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1085,6 +1087,14 @@ Global
 		{AAC35F10-BF21-4AAC-8455-F42FECDFE6A3}.Release|x64.Build.0 = Release|x64
 		{AAC35F10-BF21-4AAC-8455-F42FECDFE6A3}.Release|x86.ActiveCfg = Release|Win32
 		{AAC35F10-BF21-4AAC-8455-F42FECDFE6A3}.Release|x86.Build.0 = Release|Win32
+		{CD9F9D5A-AB53-4B1A-A74A-7452FF28022C}.Debug|x64.ActiveCfg = Debug|x64
+		{CD9F9D5A-AB53-4B1A-A74A-7452FF28022C}.Debug|x64.Build.0 = Debug|x64
+		{CD9F9D5A-AB53-4B1A-A74A-7452FF28022C}.Debug|x86.ActiveCfg = Debug|Win32
+		{CD9F9D5A-AB53-4B1A-A74A-7452FF28022C}.Debug|x86.Build.0 = Debug|Win32
+		{CD9F9D5A-AB53-4B1A-A74A-7452FF28022C}.Release|x64.ActiveCfg = Release|x64
+		{CD9F9D5A-AB53-4B1A-A74A-7452FF28022C}.Release|x64.Build.0 = Release|x64
+		{CD9F9D5A-AB53-4B1A-A74A-7452FF28022C}.Release|x86.ActiveCfg = Release|Win32
+		{CD9F9D5A-AB53-4B1A-A74A-7452FF28022C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1196,6 +1206,7 @@ Global
 		{7AB21F31-17FD-4B3F-9CAB-6618EDB77AA6} = {C380A59B-4090-4339-A01C-72A6D767DF5D}
 		{EE6E21E2-7EE6-44A2-A4C4-29D409B51306} = {C380A59B-4090-4339-A01C-72A6D767DF5D}
 		{AAC35F10-BF21-4AAC-8455-F42FECDFE6A3} = {C380A59B-4090-4339-A01C-72A6D767DF5D}
+		{CD9F9D5A-AB53-4B1A-A74A-7452FF28022C} = {C380A59B-4090-4339-A01C-72A6D767DF5D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CAA886D7-9147-4036-BEB1-4D5763D86490}
