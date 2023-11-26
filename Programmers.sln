@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "25_문자열 내림차순�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "26_부족한 금액 계산하기", "Level_01\26_부족한 금액 계산하기\26_부족한 금액 계산하기.vcxproj", "{9F0FE583-5D4C-4DEC-B822-3E015F8571DE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "27_문자열 다루기 기본", "Level_01\27_문자열 다루기 기본\27_문자열 다루기 기본.vcxproj", "{4FEB8DC6-16E5-4D36-8257-83C7CE20834E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -85,6 +87,14 @@ Global
 		{9F0FE583-5D4C-4DEC-B822-3E015F8571DE}.Release|x64.Build.0 = Release|x64
 		{9F0FE583-5D4C-4DEC-B822-3E015F8571DE}.Release|x86.ActiveCfg = Release|Win32
 		{9F0FE583-5D4C-4DEC-B822-3E015F8571DE}.Release|x86.Build.0 = Release|Win32
+		{4FEB8DC6-16E5-4D36-8257-83C7CE20834E}.Debug|x64.ActiveCfg = Debug|x64
+		{4FEB8DC6-16E5-4D36-8257-83C7CE20834E}.Debug|x64.Build.0 = Debug|x64
+		{4FEB8DC6-16E5-4D36-8257-83C7CE20834E}.Debug|x86.ActiveCfg = Debug|Win32
+		{4FEB8DC6-16E5-4D36-8257-83C7CE20834E}.Debug|x86.Build.0 = Debug|Win32
+		{4FEB8DC6-16E5-4D36-8257-83C7CE20834E}.Release|x64.ActiveCfg = Release|x64
+		{4FEB8DC6-16E5-4D36-8257-83C7CE20834E}.Release|x64.Build.0 = Release|x64
+		{4FEB8DC6-16E5-4D36-8257-83C7CE20834E}.Release|x86.ActiveCfg = Release|Win32
+		{4FEB8DC6-16E5-4D36-8257-83C7CE20834E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -96,6 +106,7 @@ Global
 		{FC9A8A9A-08DB-479B-A5EF-A387A8C580FC} = {C380A59B-4090-4339-A01C-72A6D767DF5D}
 		{DC84C7E2-B6AC-4A59-BB8B-1460F738F406} = {C380A59B-4090-4339-A01C-72A6D767DF5D}
 		{9F0FE583-5D4C-4DEC-B822-3E015F8571DE} = {C380A59B-4090-4339-A01C-72A6D767DF5D}
+		{4FEB8DC6-16E5-4D36-8257-83C7CE20834E} = {C380A59B-4090-4339-A01C-72A6D767DF5D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CAA886D7-9147-4036-BEB1-4D5763D86490}
