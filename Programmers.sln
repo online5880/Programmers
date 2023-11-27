@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "28_직사각형 별찍기",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "29_최대공약수와 최소공배수", "Level_01\29_최대공약수와 최소공배수\29_최대공약수와 최소공배수.vcxproj", "{1705BD3A-77D1-45FF-B35F-5326A113AB2F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "30_같은 숫자는 싫어", "Level_01\30_같은 숫자는 싫어\30_같은 숫자는 싫어.vcxproj", "{3C5D5C19-A9D1-496F-9508-B350C4BE3C37}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -115,6 +117,14 @@ Global
 		{1705BD3A-77D1-45FF-B35F-5326A113AB2F}.Release|x64.Build.0 = Release|x64
 		{1705BD3A-77D1-45FF-B35F-5326A113AB2F}.Release|x86.ActiveCfg = Release|Win32
 		{1705BD3A-77D1-45FF-B35F-5326A113AB2F}.Release|x86.Build.0 = Release|Win32
+		{3C5D5C19-A9D1-496F-9508-B350C4BE3C37}.Debug|x64.ActiveCfg = Debug|x64
+		{3C5D5C19-A9D1-496F-9508-B350C4BE3C37}.Debug|x64.Build.0 = Debug|x64
+		{3C5D5C19-A9D1-496F-9508-B350C4BE3C37}.Debug|x86.ActiveCfg = Debug|Win32
+		{3C5D5C19-A9D1-496F-9508-B350C4BE3C37}.Debug|x86.Build.0 = Debug|Win32
+		{3C5D5C19-A9D1-496F-9508-B350C4BE3C37}.Release|x64.ActiveCfg = Release|x64
+		{3C5D5C19-A9D1-496F-9508-B350C4BE3C37}.Release|x64.Build.0 = Release|x64
+		{3C5D5C19-A9D1-496F-9508-B350C4BE3C37}.Release|x86.ActiveCfg = Release|Win32
+		{3C5D5C19-A9D1-496F-9508-B350C4BE3C37}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -129,6 +139,7 @@ Global
 		{4FEB8DC6-16E5-4D36-8257-83C7CE20834E} = {C380A59B-4090-4339-A01C-72A6D767DF5D}
 		{B12C57AB-AE55-444F-BF4D-F51F42EE1E27} = {C380A59B-4090-4339-A01C-72A6D767DF5D}
 		{1705BD3A-77D1-45FF-B35F-5326A113AB2F} = {C380A59B-4090-4339-A01C-72A6D767DF5D}
+		{3C5D5C19-A9D1-496F-9508-B350C4BE3C37} = {C380A59B-4090-4339-A01C-72A6D767DF5D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CAA886D7-9147-4036-BEB1-4D5763D86490}
