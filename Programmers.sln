@@ -35,6 +35,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "32_예산", "Level_01\32_�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "33_이상한 문자 만들기", "33_이상한 문자 만들기\33_이상한 문자 만들기.vcxproj", "{E722B2F6-7102-4790-926F-97E2EDB58BD6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "34_크기가 작은 부분문자열", "Level_01\34_크기가 작은 부분문자열\34_크기가 작은 부분문자열.vcxproj", "{F133FDE3-0108-4ADE-AB76-2E544A5F8E9E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -155,6 +157,14 @@ Global
 		{E722B2F6-7102-4790-926F-97E2EDB58BD6}.Release|x64.Build.0 = Release|x64
 		{E722B2F6-7102-4790-926F-97E2EDB58BD6}.Release|x86.ActiveCfg = Release|Win32
 		{E722B2F6-7102-4790-926F-97E2EDB58BD6}.Release|x86.Build.0 = Release|Win32
+		{F133FDE3-0108-4ADE-AB76-2E544A5F8E9E}.Debug|x64.ActiveCfg = Debug|x64
+		{F133FDE3-0108-4ADE-AB76-2E544A5F8E9E}.Debug|x64.Build.0 = Debug|x64
+		{F133FDE3-0108-4ADE-AB76-2E544A5F8E9E}.Debug|x86.ActiveCfg = Debug|Win32
+		{F133FDE3-0108-4ADE-AB76-2E544A5F8E9E}.Debug|x86.Build.0 = Debug|Win32
+		{F133FDE3-0108-4ADE-AB76-2E544A5F8E9E}.Release|x64.ActiveCfg = Release|x64
+		{F133FDE3-0108-4ADE-AB76-2E544A5F8E9E}.Release|x64.Build.0 = Release|x64
+		{F133FDE3-0108-4ADE-AB76-2E544A5F8E9E}.Release|x86.ActiveCfg = Release|Win32
+		{F133FDE3-0108-4ADE-AB76-2E544A5F8E9E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -173,6 +183,7 @@ Global
 		{A1FB5D78-A2F0-4A5E-B281-CFC704652AC7} = {C380A59B-4090-4339-A01C-72A6D767DF5D}
 		{0F305DC5-1708-4ED2-B12B-EA3A5E97D22A} = {C380A59B-4090-4339-A01C-72A6D767DF5D}
 		{E722B2F6-7102-4790-926F-97E2EDB58BD6} = {C380A59B-4090-4339-A01C-72A6D767DF5D}
+		{F133FDE3-0108-4ADE-AB76-2E544A5F8E9E} = {C380A59B-4090-4339-A01C-72A6D767DF5D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CAA886D7-9147-4036-BEB1-4D5763D86490}

@@ -14,6 +14,7 @@ string solution(string s) {
         i = index & 1 ? (char)tolower(i) : (char)toupper(i);
         index++;
     }
+    return s;
 }
 
 int main()
