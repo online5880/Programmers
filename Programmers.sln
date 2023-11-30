@@ -39,6 +39,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "34_크기가 작은 부분�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "35_시저 암호", "Level_01\35_시저 암호\35_시저 암호.vcxproj", "{00B2B3FD-0E47-4E6A-AF20-6138B1D852B3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "36_숫자 문자열과 영단어", "Level_01\36_숫자 문자열과 영단어\36_숫자 문자열과 영단어.vcxproj", "{91527E28-BEAC-4B24-AEF9-820F9BBFB190}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -175,6 +177,14 @@ Global
 		{00B2B3FD-0E47-4E6A-AF20-6138B1D852B3}.Release|x64.Build.0 = Release|x64
 		{00B2B3FD-0E47-4E6A-AF20-6138B1D852B3}.Release|x86.ActiveCfg = Release|Win32
 		{00B2B3FD-0E47-4E6A-AF20-6138B1D852B3}.Release|x86.Build.0 = Release|Win32
+		{91527E28-BEAC-4B24-AEF9-820F9BBFB190}.Debug|x64.ActiveCfg = Debug|x64
+		{91527E28-BEAC-4B24-AEF9-820F9BBFB190}.Debug|x64.Build.0 = Debug|x64
+		{91527E28-BEAC-4B24-AEF9-820F9BBFB190}.Debug|x86.ActiveCfg = Debug|Win32
+		{91527E28-BEAC-4B24-AEF9-820F9BBFB190}.Debug|x86.Build.0 = Debug|Win32
+		{91527E28-BEAC-4B24-AEF9-820F9BBFB190}.Release|x64.ActiveCfg = Release|x64
+		{91527E28-BEAC-4B24-AEF9-820F9BBFB190}.Release|x64.Build.0 = Release|x64
+		{91527E28-BEAC-4B24-AEF9-820F9BBFB190}.Release|x86.ActiveCfg = Release|Win32
+		{91527E28-BEAC-4B24-AEF9-820F9BBFB190}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -195,6 +205,7 @@ Global
 		{E722B2F6-7102-4790-926F-97E2EDB58BD6} = {C380A59B-4090-4339-A01C-72A6D767DF5D}
 		{F133FDE3-0108-4ADE-AB76-2E544A5F8E9E} = {C380A59B-4090-4339-A01C-72A6D767DF5D}
 		{00B2B3FD-0E47-4E6A-AF20-6138B1D852B3} = {C380A59B-4090-4339-A01C-72A6D767DF5D}
+		{91527E28-BEAC-4B24-AEF9-820F9BBFB190} = {C380A59B-4090-4339-A01C-72A6D767DF5D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CAA886D7-9147-4036-BEB1-4D5763D86490}
