@@ -45,6 +45,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "37_행렬의 덧셈", "Leve
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "38_삼총사", "Level_01\38_삼총사\38_삼총사.vcxproj", "{DB8AB1BE-5334-4F31-9237-F0D8270D357F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "39_가장 가까운 같은 글자", "Level_01\39_가장 가까운 같은 글자\39_가장 가까운 같은 글자.vcxproj", "{29CB4DE4-8477-4CF5-A0E0-23ABD9D36DF6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -205,6 +207,14 @@ Global
 		{DB8AB1BE-5334-4F31-9237-F0D8270D357F}.Release|x64.Build.0 = Release|x64
 		{DB8AB1BE-5334-4F31-9237-F0D8270D357F}.Release|x86.ActiveCfg = Release|Win32
 		{DB8AB1BE-5334-4F31-9237-F0D8270D357F}.Release|x86.Build.0 = Release|Win32
+		{29CB4DE4-8477-4CF5-A0E0-23ABD9D36DF6}.Debug|x64.ActiveCfg = Debug|x64
+		{29CB4DE4-8477-4CF5-A0E0-23ABD9D36DF6}.Debug|x64.Build.0 = Debug|x64
+		{29CB4DE4-8477-4CF5-A0E0-23ABD9D36DF6}.Debug|x86.ActiveCfg = Debug|Win32
+		{29CB4DE4-8477-4CF5-A0E0-23ABD9D36DF6}.Debug|x86.Build.0 = Debug|Win32
+		{29CB4DE4-8477-4CF5-A0E0-23ABD9D36DF6}.Release|x64.ActiveCfg = Release|x64
+		{29CB4DE4-8477-4CF5-A0E0-23ABD9D36DF6}.Release|x64.Build.0 = Release|x64
+		{29CB4DE4-8477-4CF5-A0E0-23ABD9D36DF6}.Release|x86.ActiveCfg = Release|Win32
+		{29CB4DE4-8477-4CF5-A0E0-23ABD9D36DF6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -228,6 +238,7 @@ Global
 		{91527E28-BEAC-4B24-AEF9-820F9BBFB190} = {C380A59B-4090-4339-A01C-72A6D767DF5D}
 		{A4855AA1-0A89-4AE7-9593-F1C800C693B6} = {C380A59B-4090-4339-A01C-72A6D767DF5D}
 		{DB8AB1BE-5334-4F31-9237-F0D8270D357F} = {C380A59B-4090-4339-A01C-72A6D767DF5D}
+		{29CB4DE4-8477-4CF5-A0E0-23ABD9D36DF6} = {C380A59B-4090-4339-A01C-72A6D767DF5D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CAA886D7-9147-4036-BEB1-4D5763D86490}
