@@ -16,7 +16,6 @@ vector<int> solution(vector<string> name, vector<int> yearning, vector<vector<st
     for (const auto& p : photo)
     {
         int temp = 0;
-        int count = 0;
         for (const auto& s : p)
         {
             if (auto search = score.find(s) != score.end())
