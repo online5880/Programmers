@@ -61,6 +61,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "45_두 개 뽑아서 더하
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "46_기사단원의 무기", "Level_01\46_기사단원의 무기\46_기사단원의 무기.vcxproj", "{09B1A1B0-9A32-4F53-99F1-74FC1C93B54C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "47_푸드 파이트 대회", "47_푸드 파이트 대회\47_푸드 파이트 대회.vcxproj", "{8CB00269-2A58-43DB-8B9D-7EE64A91E3D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -285,6 +287,14 @@ Global
 		{09B1A1B0-9A32-4F53-99F1-74FC1C93B54C}.Release|x64.Build.0 = Release|x64
 		{09B1A1B0-9A32-4F53-99F1-74FC1C93B54C}.Release|x86.ActiveCfg = Release|Win32
 		{09B1A1B0-9A32-4F53-99F1-74FC1C93B54C}.Release|x86.Build.0 = Release|Win32
+		{8CB00269-2A58-43DB-8B9D-7EE64A91E3D5}.Debug|x64.ActiveCfg = Debug|x64
+		{8CB00269-2A58-43DB-8B9D-7EE64A91E3D5}.Debug|x64.Build.0 = Debug|x64
+		{8CB00269-2A58-43DB-8B9D-7EE64A91E3D5}.Debug|x86.ActiveCfg = Debug|Win32
+		{8CB00269-2A58-43DB-8B9D-7EE64A91E3D5}.Debug|x86.Build.0 = Debug|Win32
+		{8CB00269-2A58-43DB-8B9D-7EE64A91E3D5}.Release|x64.ActiveCfg = Release|x64
+		{8CB00269-2A58-43DB-8B9D-7EE64A91E3D5}.Release|x64.Build.0 = Release|x64
+		{8CB00269-2A58-43DB-8B9D-7EE64A91E3D5}.Release|x86.ActiveCfg = Release|Win32
+		{8CB00269-2A58-43DB-8B9D-7EE64A91E3D5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -316,6 +326,7 @@ Global
 		{230914D4-D124-4BF3-9F3B-14034064FB68} = {C380A59B-4090-4339-A01C-72A6D767DF5D}
 		{FBF02E70-BB9A-4BFE-9A1C-01C935E86849} = {C380A59B-4090-4339-A01C-72A6D767DF5D}
 		{09B1A1B0-9A32-4F53-99F1-74FC1C93B54C} = {C380A59B-4090-4339-A01C-72A6D767DF5D}
+		{8CB00269-2A58-43DB-8B9D-7EE64A91E3D5} = {C380A59B-4090-4339-A01C-72A6D767DF5D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CAA886D7-9147-4036-BEB1-4D5763D86490}
